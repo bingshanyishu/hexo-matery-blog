@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "3c88783b65ada462",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3dbe6466661af5b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "博客搭建.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "040cae45650bf599",
+    "type": "split",
+    "children": [
+      {
+        "id": "ebb476974bcbafed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "234e3986dd4dee48",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5ca78423501ae258",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "836ebd5499334486",
+    "type": "split",
+    "children": [
+      {
+        "id": "a798f4ad24308693",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4d177f42072e303",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "博客搭建.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f3dbe6466661af5b",
+  "lastOpenFiles": [
+    "博客搭建.md",
+    "jQuery+CSS3.md",
+    "Tableau绘制热图、日历图、人口金字塔、标靶图、凹凸图、帕累托图.md",
+    "Tableau绘制K线图、布林线、圆环图、雷达图.md",
+    "Tableau学习Step2一数据文件的读取与统计图、表的概述.md",
+    "Tableau学习Step3一数据的连接与基本图形的制作.md",
+    "Tableau学习Step5一表计算、详细级别表达式、动作、外接python.md",
+    "Tableau学习Step6一如何制作炫彩地图.md",
+    "Tableau怎么制作专业图表.md",
+    "怎么制作专业图表.assets/image-20211006102232107.png.md"
+  ]
+}
