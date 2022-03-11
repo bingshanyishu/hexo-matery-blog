@@ -14,7 +14,7 @@ categories:
   - 
 abbrlink: 
 reprintPolicy: cc_by
-img:
+img: https://cdn.jsdelivr.net/gh/bingshanyishu/bingshanyishu.github.io/medias/posts/1.jpg
 password:
 ---
 

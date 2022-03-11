@@ -2,7 +2,7 @@
 title: Tableau绘制漏斗图、甘特图、瀑布图、镶边面积图、阴影坡度图
 author: Sankey
 coverImg: /medias/banner/2.jpg
-top: true
+top: false
 cover: false
 toc: true
 mathjax: false

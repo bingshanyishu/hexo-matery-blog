@@ -2,7 +2,7 @@
 title: Tableau绘制热图、日历图、人口金字塔、标靶图、凹凸图、帕累托图
 author: Sankey
 coverImg: /medias/banner/2.jpg
-top: true
+top: false
 cover: false
 toc: true
 mathjax: false

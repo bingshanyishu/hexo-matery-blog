@@ -144,10 +144,6 @@ password:
 
 ![image-20220202224221257](https://gitee.com/Omnivore_zhang/cloud-image/raw/master/Tableau/draw/image-20220202224221257.png)
 
-![image-20211006102232107](怎么制作专业图表.assets/image-20211006102232107.png)
-
-
-
 #### 2.2.3 取色法
 
 **三色组取色**

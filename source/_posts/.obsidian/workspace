@@ -4,16 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "f3dbe6466661af5b",
+        "id": "0f7e94aa65073963",
         "type": "leaf",
+        "dimension": 75.69721115537848,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "博客搭建.md",
+            "file": "博客搭建，修改基本信息，建立个人风格.md",
             "mode": "source",
+            "backlinks": true,
             "source": false
           }
-        }
+        },
+        "group": "b4e33ac43e5d504b"
+      },
+      {
+        "id": "1025c438c2b98d35",
+        "type": "leaf",
+        "dimension": 24.302788844621514,
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "博客搭建，修改基本信息，建立个人风格.md"
+          }
+        },
+        "group": "b4e33ac43e5d504b"
       }
     ],
     "direction": "vertical"
@@ -53,23 +68,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 292,
+    "collapsed": true
   },
   "right": {
     "id": "836ebd5499334486",
     "type": "split",
     "children": [
       {
-        "id": "a798f4ad24308693",
+        "id": "1c7e790b07bbec62",
         "type": "tabs",
         "children": [
           {
-            "id": "e4d177f42072e303",
+            "id": "81f5dbba7d3bf6fc",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "博客搭建.md",
+                "file": "博客搭建，修改基本信息，建立个人风格.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,20 +100,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 176,
     "collapsed": true
   },
-  "active": "f3dbe6466661af5b",
+  "active": "0f7e94aa65073963",
   "lastOpenFiles": [
-    "博客搭建.md",
-    "jQuery+CSS3.md",
-    "Tableau绘制热图、日历图、人口金字塔、标靶图、凹凸图、帕累托图.md",
-    "Tableau绘制K线图、布林线、圆环图、雷达图.md",
-    "Tableau学习Step2一数据文件的读取与统计图、表的概述.md",
-    "Tableau学习Step3一数据的连接与基本图形的制作.md",
-    "Tableau学习Step5一表计算、详细级别表达式、动作、外接python.md",
-    "Tableau学习Step6一如何制作炫彩地图.md",
+    "博客搭建，修改基本信息，建立个人风格.md",
+    "个人知识树博客搭建一环境的安装与配置.md",
+    "关于Web的一些知识，Web怎么构成？.md",
     "Tableau怎么制作专业图表.md",
-    "怎么制作专业图表.assets/image-20211006102232107.png.md"
+    "HTML的怎么使用，开发工具以及常用标签。.md",
+    "Tableau绘制漏斗图、甘特图、瀑布图、镶边面积图、阴影坡度图.md",
+    "怎么制作专业图表.assets/image-20211006102232107.png.md",
+    "Tableau学习Step3一数据的连接与基本图形的制作.md",
+    "Tableau学习step1一Tableau概述.md",
+    "selenium在爬虫中的使用.md"
   ]
 }
