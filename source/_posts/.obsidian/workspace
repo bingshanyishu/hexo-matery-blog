@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "博客搭建，修改基本信息，建立个人风格.md",
+            "file": "定位是什么，元素怎么显示隐藏.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -25,7 +25,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "博客搭建，修改基本信息，建立个人风格.md"
+            "file": "定位是什么，元素怎么显示隐藏.md"
           }
         },
         "group": "b4e33ac43e5d504b"
@@ -68,8 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292,
-    "collapsed": true
+    "width": 375
   },
   "right": {
     "id": "836ebd5499334486",
@@ -85,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "博客搭建，修改基本信息，建立个人风格.md",
+                "file": "定位是什么，元素怎么显示隐藏.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,15 +104,15 @@
   },
   "active": "0f7e94aa65073963",
   "lastOpenFiles": [
+    "定位是什么，元素怎么显示隐藏.md",
+    "浮动布局，以及如何清除浮动.md",
     "博客搭建，修改基本信息，建立个人风格.md",
-    "个人知识树博客搭建一环境的安装与配置.md",
+    "如何在hexo博客中在线阅读pdf.md",
     "关于Web的一些知识，Web怎么构成？.md",
-    "Tableau怎么制作专业图表.md",
-    "HTML的怎么使用，开发工具以及常用标签。.md",
-    "Tableau绘制漏斗图、甘特图、瀑布图、镶边面积图、阴影坡度图.md",
-    "怎么制作专业图表.assets/image-20211006102232107.png.md",
-    "Tableau学习Step3一数据的连接与基本图形的制作.md",
-    "Tableau学习step1一Tableau概述.md",
-    "selenium在爬虫中的使用.md"
+    "个人知识树博客搭建一环境的安装与配置.md",
+    "CSS复合选择器，元素的显示模式，CSS背景设置.md",
+    "CSS简介，基础选择器，字体属性，文本属性.md",
+    "网页的盒子模型是什么？怎么设置盒子样式.md",
+    "Tableau怎么制作专业图表.md"
   ]
 }

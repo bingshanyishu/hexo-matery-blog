@@ -12,7 +12,7 @@ tags:
   - 
 categories:
   - 
-abbrlink: 
+abbrlink: {{ date }}
 reprintPolicy: cc_by
 img: https://cdn.jsdelivr.net/gh/bingshanyishu/bingshanyishu.github.io/medias/posts/1.jpg
 password:
